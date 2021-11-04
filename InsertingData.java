@@ -1,9 +1,9 @@
-package Ok;
+package movie;
 
 import java.sql.DriverManager;
 import java.sql.*;
 import java.util.*;
-public class InsertData {
+public class InsertingData {
 
 	public static void main(String[] args) throws Exception
 	{
@@ -32,7 +32,7 @@ public class InsertData {
 		ps.setInt(5, yr);
 		ps.setString(6, dname);
 		ps.executeUpdate();
-		System.out.print("Data Inserted");
+		System.out.print("Data Inserted successfully");
 	}
 
 }
