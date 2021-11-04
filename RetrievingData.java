@@ -1,9 +1,9 @@
-package Ok;
+package Movie;
 
 import java.sql.DriverManager;
 import java.sql.*;
 
-public class RetrieveData
+public class RetrievingData
 {
 	public static void main(String mk[]) throws Exception
 	{
