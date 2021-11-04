@@ -16,5 +16,4 @@ public class TableCreation
 		System.out.print("Table Created");
 		
 	}
-
 }
