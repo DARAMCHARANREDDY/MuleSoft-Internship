@@ -1,9 +1,9 @@
-package Ok;
+package Movie;
 
 import java.sql.DriverManager;
 import java.sql.*;
 
-public class CreationOfTable
+public class TableCreation
 {
 	public static void main(String mk[]) throws Exception
 	{
