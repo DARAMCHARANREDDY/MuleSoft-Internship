@@ -1,9 +1,9 @@
-package Ok;
+package Movie;
 import java.sql.*;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.util.*;
-public class BasedOnActorName {
+public class locateaccordingtoActorname.java {
 
 	public static void main(String[] args) throws Exception
 	{
